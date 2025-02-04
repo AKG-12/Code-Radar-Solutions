@@ -1,5 +1,4 @@
-
-#invlude <stdio.h>
+#include <stdio.h>
 
 int main() {
     char x;
