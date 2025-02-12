@@ -5,7 +5,6 @@ int main() {
     int age;
     char hobby[50];
 
-    // Taking inputs
     printf(" ");
     scanf("%s", name);
 
