@@ -13,9 +13,9 @@ int main() {
     unsigned int mask = 1 << 31;  
 
     while ((num & mask) == 0) {  
-        mask >>= 1;
+        mask >>= 1;  
+    }
 
-    printf("%d\n", count);  
-
+    printf("%d\n", count);
     return 0;
 }
