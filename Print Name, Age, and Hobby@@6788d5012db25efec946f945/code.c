@@ -5,13 +5,13 @@ int main() {
     int age;
     char hobby[50];
 
-    printf(" ");
+    // printf(" ");
     scanf("%s", name);
 
-    printf(" ");
+    // printf(" ");
     scanf("%d", &age);
 
-    printf(" ");
+    // printf(" ");
     scanf("%s", hobby);
 
     // Printing outputs
