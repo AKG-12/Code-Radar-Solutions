@@ -8,7 +8,7 @@ int main() {
     printf("");
     scanf("%d", &num1);
 
-    printf(" ");
+    printf("");
     scanf("%d", &num2);
 
     result = (num1 != num2);
