@@ -5,7 +5,7 @@ int main() {
     int num1, num2;
     bool result;  
 
-    printf(" ");
+    // printf(" ");
     scanf("%d", &num1);
 
     printf(" ");
