@@ -3,9 +3,12 @@
 int main() {
     int num;
 
-    scanf("%d", %num);
+    // Taking input
+    scanf("%d", &num);
 
+    // Printing hexadecimal and octal values
     printf("Hexadecimal: %X\n", num);
     printf("Octal: %o\n", num);
-    return 0;
+
+    return 0;
 }
