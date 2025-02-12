@@ -6,7 +6,7 @@ int main() {
     char hobby[50];
 
     // Taking inputs
-    printf(" ");
+    printf("");
     scanf("%s", name);
 
     printf(" ");
